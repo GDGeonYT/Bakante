@@ -1,0 +1,10 @@
+{
+  "isPlaceholder": true,
+  "recordedBy": "QA Analyst (Pending Live Stopwatch Run)",
+  "recordedAt": "2026-11-21",
+  "totalRequests": 20,
+  "totalTimeSeconds": 480,
+  "conflictsMissedCount": 2,
+  "errorsAdmittedCount": 3,
+  "notes": "Default reference estimate (~24s/request manual check). Replace with your real stopwatch measurements from baseline/manual_test_protocol.md."
+}
